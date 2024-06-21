@@ -1,0 +1,11 @@
+Model Information:
+* title:	Manuel Animated 001 - 3D Dancing Man
+* source:	https://sketchfab.com/3d-models/manuel-animated-001-3d-dancing-man-e65e0fef4e0743868c8d5bff36d61116
+* author:	Renderpeople (https://sketchfab.com/renderpeople)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Manuel Animated 001 - 3D Dancing Man" (https://sketchfab.com/3d-models/manuel-animated-001-3d-dancing-man-e65e0fef4e0743868c8d5bff36d61116) by Renderpeople (https://sketchfab.com/renderpeople) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

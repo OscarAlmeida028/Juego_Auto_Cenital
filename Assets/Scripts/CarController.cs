@@ -35,14 +35,14 @@ public class CarController : MonoBehaviour
 
     private Rigidbody carRb;
 
-    //private CarLights carLights;
+    private CarLights carLights;
 
     void Start()
     {
         carRb = GetComponent<Rigidbody>();
         carRb.centerOfMass = _centerOfMass;
 
-        //carLights = GetComponent<CarLights>();
+        carLights = GetComponent<CarLights>();
     }
 
     void Update()
@@ -104,8 +104,8 @@ public class CarController : MonoBehaviour
                 wheel.wheelCollider.brakeTorque = 300 * brakeAcceleration * Time.deltaTime;
             }
 
-            /*carLights.isBackLightOn = true;
-            carLights.OperateBackLights();*/
+            carLights.isBackLightOn = true;
+            carLights.OperateBackLights();
         }
         else
         {
@@ -114,8 +114,8 @@ public class CarController : MonoBehaviour
                 wheel.wheelCollider.brakeTorque = 0;
             }
 
-            /*carLights.isBackLightOn = false;
-            carLights.OperateBackLights();*/
+            carLights.isBackLightOn = false;
+            carLights.OperateBackLights();
         }
     }
 
